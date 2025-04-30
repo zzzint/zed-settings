@@ -13,6 +13,7 @@
       "g a": "editor::SelectAllMatches",
       "g r": "editor::FindAllReferences",
       "g d": "editor::GoToDefinition",
+      "g D": "git::Diff",
       "g c": "command_palette::Toggle",
       "g f": "file_finder::Toggle",
       "g e": "diagnostics::Deploy"
