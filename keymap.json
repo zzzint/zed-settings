@@ -16,7 +16,9 @@
       "g D": "git::Diff",
       "g c": "command_palette::Toggle",
       "g f": "file_finder::Toggle",
-      "g e": "diagnostics::Deploy"
+      "g e": "diagnostics::Deploy",
+      "g s": "outline::Toggle",
+      "g shift-s": "project_symbols::Toggle"
     }
   },
   {
